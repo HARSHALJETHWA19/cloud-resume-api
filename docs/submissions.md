@@ -15,8 +15,6 @@ This is the place to add your own Cloud Resume API project!
 | Harshal Jethwa | https://resumedata-aws.s3.us-east-1.amazonaws.com/index2.html | https://github.com/HARSHALJETHWA19/resume
 
 
-https://resumedata-aws.s3.us-east-1.amazonaws.com/index2.html
-
 ## Azure
 
 | Name         | Resume API URL | GitHub Repo |
