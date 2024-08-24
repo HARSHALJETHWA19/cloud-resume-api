@@ -12,7 +12,7 @@ This is the place to add your own Cloud Resume API project!
 | Lasantha Sanjeewa Silva | https://2eap5vzdl2wcackr6kbgq7znem0faboq.lambda-url.us-east-2.on.aws/ | https://github.com/sanju2/Resume-Rest-API 
 | Jaivir Singh Baweja | https://6d7glxgbel2lb6nfht7p6zppsm0gikwg.lambda-url.us-east-1.on.aws/ | https://github.com/jv199768/cloud-resume-api
 | Hein Htet Win | https://cloud-resume.heinux-training.net | https://github.com/heinhtetwin/cloud-resume-challenge
-| Harshal Jethwa | https://resumedata-aws.s3.us-east-1.amazonaws.com/index2.html | https://github.com/HARSHALJETHWA19/resume
+| Harshal Jethwa | https://resumedata-aws.s3.us-east-1.amazonaws.com/index2.html | https://github.com/HARSHALJETHWA19/resume 
 
 
 ## Azure
